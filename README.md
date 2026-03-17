@@ -7,3 +7,14 @@
 
 
 ## Session 'README', exercise 1
+
+This is my project.
+
+- Report (TODO: add link)
+- Data management plan (TODO: add link)
+
+### Folder structure
+
+Folder name     |Description
+----------------|------------------------------
+`famous_project`|Folder for exercise 6 on day 1
