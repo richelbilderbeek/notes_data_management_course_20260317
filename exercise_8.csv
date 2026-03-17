@@ -1,0 +1,76 @@
+training_name,year,date,date_color,length_h,prg,pdra,other,prev_three_cols_color,teacher,teacher_color,taught
+RDM,2016,2016-01-12,,1.5,45,0,0,,FG,,yes
+RDM,2016,2016-02-07,Yellow,2,38,0,0,,GH,Red,yes
+RDM,2016,2016-03-04,Yellow,2,43,3,0,,GH,Red,yes
+RDM,2016,2016-03-17,,1.5,34,1,0,,FG,,yes
+RDM,2016,2016-03-21,,1,25,2,0,,DQ,,yes
+RDM,2016,2016-03-23,Grey,2,32,10,0,,FG,,no
+RDM,2016,2016-04-19,,1,34,0,0,,GH,,yes
+RDM,2016,2016-04-30,,1.5,37,0,0,,FG,,yes
+RDM,2016,2016-06-04,,1,45,0,0,,GH,,yes
+RDM,2016,2016-06-12,,2,36,0,0,,DQ,,yes
+RDM,2016,2016-06-22,,1.5,38,0,0,,DQ,,yes
+RDM,2016,2016-06-25,Yellow,1,35,4,0,Light red,GH,Red,yes
+RDM,2016,2016-06-30,,1.5,44,3,0,,FG,,yes
+RDM,2016,2016-07-01,,1.5,40,0,4,,FG,,yes
+RDM,2016,2016-07-06,,1.5,21,0,0,,GH,,yes
+RDM,2016,2016-07-07,,1,37,4,1,Light red,DQ,,yes
+RDM,2016,2016-07-09,Yellow,1,29,7,0,Light red,GH,Red,yes
+RDM,2016,2016-07-30,,2,22,3,0,,FG,,yes
+RDM,2016,2016-08-29,,1.5,22,4,0,,GH,Red,yes
+RDM,2016,2016-09-10,,1,38,0,0,,FG,,yes
+RDM,2016,2016-09-21,Grey,1,31,0,0,,GH,,no
+RDM,2016,2016-10-01,,2,26,9,5,,DQ,,yes
+RDM,2016,2016-10-25,,1.5,20,4,0,,DQ,,yes
+RDM,2016,2016-11-04,,1.5,38,5,5,,FG,,yes
+RDM,2016,2016-11-05,Yellow,2,40,0,0,,GH,Red,yes
+RDM,2016,2016-11-08,,2,22,7,0,,FG,,yes
+RDM,2016,2016-12-01,,2,41,6,0,Light red,DQ,,yes
+RDM,2016,2016-12-19,Yellow,2,39,9,1,,GH,Red,yes
+Open Access,2016,2016-01-08,,1.5,20,,,,FG,,yes
+Open Access,2016,2016-01-13,,1,21,,,,JM,Yellow,yes
+Open Access,2016,2016-01-22,,1,35,,,,JM,Yellow,yes
+Open Access,2016,2016-02-02,,1.5,36,,,,JM,Yellow,yes
+Open Access,2016,2016-02-03,,1.5,22,,,,JM,Yellow,yes
+Open Access,2016,2016-02-03,,1,30,,,,JM,Yellow,yes
+Open Access,2016,2016-03-19,,1.5,33,,,,FG,,yes
+Open Access,2016,2016-03-19,,1,39,,,Light green,JM,,yes
+Open Access,2016,2016-04-04,,1.5,21,,,,JM,,yes
+Open Access,2016,2016-05-05,,1.5,25,,,,JM,,yes
+Open Access,2016,2016-05-18,Grey,1,22,,,,JM,,no
+Open Access,2016,2016-05-19,Grey,1.5,20,,,,FG,,no
+Open Access,2016,2016-05-21,,1.5,21,,,,JM,,yes
+Open Access,2016,2016-06-14,,1.5,37,,,,JM,,yes
+Open Access,2016,2016-06-18,,1.5,25,,,,JM,,yes
+Open Access,2016,2016-07-04,,1.5,39,,,Light green,JM,,yes
+Open Access,2016,2016-07-06,,1.5,39,,,Light green,JM,,yes
+Open Access,2016,2016-07-10,,1.5,34,,,,JM,,yes
+Open Access,2016,2016-08-03,,1.5,28,,,,JM,,yes
+Open Access,2016,2016-08-20,,1.5,32,,,,JM,,yes
+Open Access,2016,2016-08-26,,1.5,25,,,,JM,,yes
+Open Access,2016,2016-08-28,Grey,1.5,33,,,,FG,,no
+Open Access,2016,2016-10-01,,1.5,38,,,,JM,,yes
+Open Access,2016,2016-11-15,,1.5,35,,,Light red,JM,,yes
+Open Access,2016,2016-11-15,,1.5,27,,,Light red,JM,,yes
+Open Access,2016,2016-12-02,,1.5,35,,,,FG,,yes
+Open Access,2016,2016-12-07,,1.5,23,,,,JM,,yes
+Open Access,2016,2016-12-11,,1.5,38,,,,FG,,yes
+Open Access,2016,2016-12-19,,1.5,20,,,,FG,,yes
+RDM,2017,2017-02-04,,1.5,,,,,GQ,,yes
+RDM,2017,2017-02-07,,Unknown,,,,,GQ,,yes
+RDM,2017,2017-02-20,,Unknown,,,,,GQ & DF,,yes
+RDM,2017,2017-03-03,,2,18,,,Red,DF,,yes
+RDM,2017,2017-03-04,,2,30,,,Yellow,DF,,yes
+RDM,2017,2017-04-08,,2,31,,,Yellow,DF,,yes
+RDM,2017,2017-05-26,,2,27,,,Yellow,DF,,yes
+RDM,2017,2017-06-02,,2,26,,,Yellow,DF,,yes
+RDM,2017,2017-06-03,,1.5,23,,,Red,DF,,yes
+RDM,2017,2017-01-16,,1,26,,,,23,JM,yes
+RDM,2017,2017-02-05,,1,38,,,,26,JM,yes
+RDM,2017,2017-02-17,,1,19,,,,25,PG,yes
+RDM,2017,2017-03-07,,1,27,,,,17,JM,yes
+RDM,2017,2017-03-29,,1,32,,,,15,PG,yes
+RDM,2017,2017-04-02,,1,41,,,,,PG,no
+RDM,2017,2017-04-24,,2,44,,,Red,44,JM,yes
+RDM,2017,2017-05-25,,1,43,,,,37,PG,yes
+RDM,2017,2017-06-16,,1,15,,,Red,15,JM,yes
