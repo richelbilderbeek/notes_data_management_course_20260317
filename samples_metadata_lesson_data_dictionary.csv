@@ -1,11 +1,15 @@
 current_col_name,suggested_col_name,ena_variable_name,Measurement unit,Allowed values,Definition,Description,possible_values
-sample id,sample_id,,,,,,SID-[number]
+sample id,sample_id,.,,,,,SID-[number]
 patient id,patient_id,host_subject_id,,free text,?a unique identifier,?the ID of the human,OAS-[number]
 sex,sex,host_sex,one of them,The 12 options at ENA,,,M or F
-date,date,,,,,,YYYYMMDD
-location,location,,,,,,City name
-age,host_age,,,,,At treatment,[number] in years
-health state,initial_health_state,host_health_state,,,,Before,healthy or diseased
-symptoms,symptoms,,,,,,y/n per symptom
-disease outcome,final_health_state,host_disease_outcome,,,,After,dead or recovered
-tissue,tissue,,,,,,latin name
+date,date,collection_date,Many possible,Many possible,,,YYYYMMDD
+location,location,geographic_location_region_and_locality,free text,free text,,,City name
+age,host_age,host_age,time,regex,,At treatment,[number] in years
+health state,initial_health_state,host_health_state,state,healthy or diseased,,Before,healthy or diseased
+symptoms,symptoms,illness_symptoms,,"free snake_case text, seperated by semicolons",,,y/n per symptom
+disease outcome,final_health_state,host_disease_outcome,state,dead or recovered,,After,dead or recovered
+tissue,tissue,isolatation_source_host_associated,free text,free text,,,latin name
+,,,,,,,
+No need to submit a sample ID if you are naive like we were,,,,,,,
+Unsure if date is collection_date or receipt_data,,,,,,,
+We think isolate should be a Latin name,,,,,,,
